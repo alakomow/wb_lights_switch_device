@@ -1,1 +1,3 @@
-# wb_lights_switch_device
+# wb_rules
+
+Срипты, которые работаю в умном доме Wiren Booard
