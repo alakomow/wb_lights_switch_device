@@ -1,0 +1,1 @@
+# wb_lights_switch_device
